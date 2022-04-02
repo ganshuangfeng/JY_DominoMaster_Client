@@ -1,0 +1,34 @@
+
+shop_sp_anim.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 75, 20
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+fanguang
+  rotate: true
+  xy: 2, 86
+  size: 424, 826
+  orig: 424, 826
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 2
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+jiubei
+  rotate: false
+  xy: 830, 348
+  size: 59, 162
+  orig: 59, 162
+  offset: 0, 0
+  index: -1

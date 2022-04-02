@@ -1,0 +1,13 @@
+
+paiodai1.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dmn_bljs_sd_1
+  rotate: false
+  xy: 2, 2
+  size: 151, 64
+  orig: 151, 64
+  offset: 0, 0
+  index: -1

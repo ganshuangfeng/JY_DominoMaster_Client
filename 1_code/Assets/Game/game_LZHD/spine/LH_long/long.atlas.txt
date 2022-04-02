@@ -1,0 +1,20 @@
+
+long.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 44
+  size: 676, 414
+  orig: 676, 414
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 680, 2
+  size: 456, 324
+  orig: 456, 324
+  offset: 0, 0
+  index: -1

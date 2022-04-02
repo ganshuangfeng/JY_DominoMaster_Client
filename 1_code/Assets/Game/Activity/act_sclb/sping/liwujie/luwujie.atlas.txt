@@ -1,0 +1,13 @@
+
+luwujie.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sc_sd
+  rotate: false
+  xy: 2, 2
+  size: 934, 176
+  orig: 934, 176
+  offset: 0, 0
+  index: -1

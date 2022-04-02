@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!128 &12800000
+Font:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: xs_js_imgf_sz
+  serializedVersion: 5
+  m_LineSpacing: 0.1
+  m_DefaultMaterial: {fileID: 2100000, guid: 96b710b19c4877245985686c5f80b676, type: 2}
+  m_FontSize: 0
+  m_Texture: {fileID: 0}
+  m_AsciiStartOffset: 0
+  m_Tracking: 1
+  m_CharacterSpacing: 0
+  m_CharacterPadding: 1
+  m_ConvertCase: 0
+  m_CharacterRects:
+  - serializedVersion: 2
+    index: 49
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.08724832
+      width: 0.067009225
+      height: 0.8993288
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 68
+      height: -129
+    advance: 68
+    flipped: 0
+  - serializedVersion: 2
+    index: 50
+    uv:
+      serializedVersion: 2
+      x: 0.080222316
+      y: 0.08724832
+      width: 0.08682885
+      height: 0.91275156
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 88
+      height: -131
+    advance: 88
+    flipped: 0
+  - serializedVersion: 2
+    index: 51
+    uv:
+      serializedVersion: 2
+      x: 0.17648908
+      y: 0.07382551
+      width: 0.08966023
+      height: 0.9261745
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 91
+      height: -133
+    advance: 91
+    flipped: 0
+  - serializedVersion: 2
+    index: 52
+    uv:
+      serializedVersion: 2
+      x: 0.27558723
+      y: 0.08724832
+      width: 0.09154782
+      height: 0.8993288
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 93
+      height: -129
+    advance: 93
+    flipped: 0
+  - serializedVersion: 2
+    index: 53
+    uv:
+      serializedVersion: 2
+      x: 0.3746854
+      y: 0.07382551
+      width: 0.09060401
+      height: 0.9127517
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 92
+      height: -131
+    advance: 92
+    flipped: 0
+  - serializedVersion: 2
+    index: 54
+    uv:
+      serializedVersion: 2
+      x: 0.47755873
+      y: 0.07382551
+      width: 0.09060401
+      height: 0.9261745
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 92
+      height: -133
+    advance: 92
+    flipped: 0
+  - serializedVersion: 2
+    index: 55
+    uv:
+      serializedVersion: 2
+      x: 0.5757131
+      y: 0.08724832
+      width: 0.07455957
+      height: 0.8993288
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 76
+      height: -129
+    advance: 76
+    flipped: 0
+  - serializedVersion: 2
+    index: 56
+    uv:
+      serializedVersion: 2
+      x: 0.6597106
+      y: 0.07382551
+      width: 0.08966023
+      height: 0.9261745
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 91
+      height: -133
+    advance: 91
+    flipped: 0
+  - serializedVersion: 2
+    index: 57
+    uv:
+      serializedVersion: 2
+      x: 0.7606963
+      y: 0.07382551
+      width: 0.09154785
+      height: 0.9261745
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 93
+      height: -133
+    advance: 93
+    flipped: 0
+  - serializedVersion: 2
+    index: 48
+    uv:
+      serializedVersion: 2
+      x: 0.8645134
+      y: 0.07382551
+      width: 0.08966023
+      height: 0.9261745
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 91
+      height: -133
+    advance: 91
+    flipped: 0
+  - serializedVersion: 2
+    index: 44
+    uv:
+      serializedVersion: 2
+      x: 0.9645554
+      y: 0
+      width: 0.034920275
+      height: 1
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 35
+      height: -144
+    advance: 35
+    flipped: 0
+  m_KerningValues: []
+  m_PixelScale: 0.1
+  m_FontData: 
+  m_Ascent: 0
+  m_Descent: 0
+  m_DefaultStyle: 0
+  m_FontNames: []
+  m_FallbackFonts: []
+  m_FontRenderingMode: 0
+  m_UseLegacyBoundsCalculation: 0
+  m_ShouldRoundAdvanceValue: 1

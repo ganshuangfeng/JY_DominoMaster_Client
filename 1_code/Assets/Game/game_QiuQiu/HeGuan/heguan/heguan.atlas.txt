@@ -1,0 +1,27 @@
+
+heguan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou
+  rotate: false
+  xy: 2, 2
+  size: 330, 143
+  orig: 330, 143
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 631, 683
+  size: 230, 256
+  orig: 230, 256
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 147
+  size: 627, 792
+  orig: 627, 792
+  offset: 0, 0
+  index: -1

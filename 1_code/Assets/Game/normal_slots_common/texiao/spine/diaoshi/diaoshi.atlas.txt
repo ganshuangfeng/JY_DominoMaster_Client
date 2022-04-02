@@ -1,0 +1,13 @@
+
+diaoshi.png
+size: 32,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yxxz_icon_dz
+  rotate: false
+  xy: 2, 2
+  size: 20, 132
+  orig: 20, 132
+  offset: 0, 0
+  index: -1

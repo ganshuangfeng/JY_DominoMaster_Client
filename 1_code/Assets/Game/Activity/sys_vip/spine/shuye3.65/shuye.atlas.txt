@@ -1,0 +1,13 @@
+
+shuye.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vip_zhiwu
+  rotate: false
+  xy: 2, 2
+  size: 424, 216
+  orig: 424, 216
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.changleyou.domino" xmlns:tools="http://schemas.android.com/tools" android:installLocation="internalOnly">
+  <supports-screens android:smallScreens="true"
+      android:normalScreens="true"
+      android:largeScreens="true"
+      android:xlargeScreens="true"
+      android:anyDensity="true" />
+  <application android:name="UnityApplication"
+      android:theme="@style/UnityThemeSelector"
+      android:icon="@drawable/app_icon"
+      android:label="@string/app_name"
+      android:usesCleartextTraffic="true"
+      android:requestLegacyExternalStorage="true"
+      android:allowBackup="true"
+      android:fullBackupContent="true"
+      tools:replace="android:fullBackupContent">
+    <activity android:label="@string/app_name"
+        android:screenOrientation="fullSensor"
+        android:launchMode="singleTask"
+        android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+        android:hardwareAccelerated="true"
+        android:name="com.changleyou.domino.UnityPlayerActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+	<intent-filter android:autoVerify="true">
+        <action android:name="android.intent.action.VIEW"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+        <data android:scheme="clydomino"
+            android:host="changleyou12y31h"/>
+	</intent-filter>
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+    <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="true" />
+    </activity>
+
+    <meta-data android:name="unity.build-id" android:value="72e30243-efb7-4c30-8014-d8ae5dfeba35" />
+    <meta-data android:name="unity.splash-mode" android:value="0" />
+    <meta-data android:name="unity.splash-enable" android:value="True" />
+
+      <meta-data android:name="com.google.android.gms.games.APP_ID"
+          android:value="@string/app_id" />
+      <meta-data android:name="com.google.android.gms.version"
+          android:value="@integer/google_play_services_version"/>
+      <meta-data android:name="com.google.android.gms.serverclientid"
+          android:value="@string/server_client_id" />
+
+    <!--    facebook-->
+    <meta-data android:name="com.facebook.sdk.ApplicationId"
+        android:value="@string/facebook_app_id"/>
+      <activity android:name="com.facebook.FacebookActivity"
+          android:configChanges= "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+          android:label="@string/app_name" />
+      <activity android:name="com.facebook.CustomTabActivity"
+          android:exported="true">
+          <intent-filter>
+              <action android:name="android.intent.action.VIEW" />
+              <category android:name="android.intent.category.DEFAULT" />
+              <category android:name="android.intent.category.BROWSABLE" />
+              <data android:scheme="@string/fb_login_protocol_scheme" />
+          </intent-filter>
+      </activity>
+
+
+    <meta-data
+        android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+        android:value="true" />
+
+    <service
+        android:name="com.wxsdk.my.FirebaseEvent">
+      <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+      </intent-filter>
+    </service>
+    <!-- Set custom default icon. This is used when no icon is set for incoming notification messages.
+     See README(https://goo.gl/l4GJaQ) for more. -->
+<!--    <meta-data-->
+<!--        android:name="firebase_messaging_auto_init_enabled"-->
+<!--        android:value="false" />-->
+<!--    <meta-data-->
+<!--        android:name="firebase_analytics_collection_enabled"-->
+<!--        android:value="false" />-->
+    <meta-data
+        android:name="com.google.firebase.messaging.default_notification_icon"
+        android:resource="@drawable/ic_stat_ic_notification" />
+    <!-- Set color used with incoming notification messages. This is used when no color is set for the incoming
+         notification message. See README(https://goo.gl/6BKBk7) for more. -->
+    <meta-data
+        android:name="com.google.firebase.messaging.default_notification_color"
+        android:resource="@color/colorAccent" />
+    <meta-data
+        android:name="com.google.firebase.messaging.default_notification_channel_id"
+        android:value="@string/default_notification_channel_id" />
+
+      <activity
+          android:name="com.wxsdk.my.SDKGoogleSignInActivity"
+          android:label="@string/name_sign_in_activity"
+          android:theme="@style/ThemeOverlay.MyNoTitleActivity">
+      </activity>
+
+        <activity android:name="com.changleyou.domino.idtexa0.Pndzqa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.idtexa0.Ouhzfb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.idtexa0.Larxuc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.vrgwzb1.Oaxtaa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.vrgwzb1.Jzkbib1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.vrgwzb1.Dlmaac2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.eqtstc2.Yesqwa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.eqtstc2.Lsxvcb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.eqtstc2.Zerroc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.olyoid3.Usuela0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.olyoid3.Jkbbob1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.olyoid3.Nkuhhc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lauute4.Ubygma0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lauute4.Vngkfb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lauute4.Keasnc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.btyzzf5.Owsuea0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.btyzzf5.Mxbnhb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.btyzzf5.Yjabqc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.iqouwg6.Prhgxa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.iqouwg6.Oignqb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.iqouwg6.Dwyyqc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lfgcah7.Skngba0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lfgcah7.Bsdpdb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lfgcah7.Rchnpc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.hmuyqi8.Lamxta0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.hmuyqi8.Scvvhb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.hmuyqi8.Sqfbic2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.ncditj9.Usqtra0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.ncditj9.Kmljnb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.ncditj9.Hnphzc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.nrxhfk10.Bugoga0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.nrxhfk10.Sawnvb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.nrxhfk10.Rrwfhc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.aidmzl11.Gupiaa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.aidmzl11.Tcepeb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.aidmzl11.Qszuyc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.yuejum12.Fgstxa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.yuejum12.Fslbib1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.yuejum12.Tgegdc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.wnktpn13.Gymwwa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.wnktpn13.Kahzfb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.wnktpn13.Lultfc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.iamqwo14.Jqdcma0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.iamqwo14.Uvmveb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.iamqwo14.Hdzdmc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.cgykfp15.Yuwzna0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.cgykfp15.Sgigbb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.cgykfp15.Tybiyc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.nuuluq16.Iszdja0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.nuuluq16.Ikatvb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.nuuluq16.Sulrec2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.jamjqr17.Llrgra0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.jamjqr17.Ajxfrb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.jamjqr17.Fbwjnc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.bprwjs18.Evmrma0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.bprwjs18.Wnftob1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.bprwjs18.Jkboyc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.gazjit19.Vvqyga0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.gazjit19.Qnldnb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.gazjit19.Zjcdrc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.kaxtgu20.Muirla0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.kaxtgu20.Bwyxyb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.kaxtgu20.Owmihc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.zwzniv21.Kqpqaa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.zwzniv21.Auebib1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.zwzniv21.Qipjic2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.bxdvmw22.Lptcqa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.bxdvmw22.Pusyzb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.bxdvmw22.Cdfhec2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.hbwnix23.Vvfxna0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.hbwnix23.Eiztnb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.hbwnix23.Iykcpc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.ymapgy24.Kumepa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.ymapgy24.Myzckb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.ymapgy24.Dvvwwc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.splliz25.Nckkpa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.splliz25.Atanwb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.splliz25.Gakikc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lauixab26.Mlchra0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lauixab26.Cjxzmb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.lauixab26.Zhhmac2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.zvroqbb27.Onhwwa0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.zvroqbb27.Iiyjpb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.zvroqbb27.Nnbipc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.rckgjcb28.Buehla0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.rckgjcb28.Lbppeb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.rckgjcb28.Ycpdoc2Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.uuykjdb29.Ujufga0Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.uuykjdb29.Ribhkb1Activity">
+        </activity>
+
+        <activity android:name="com.changleyou.domino.uuykjdb29.Tkwwec2Activity">
+        </activity>
+
+
+  </application>
+
+    <uses-feature android:glEsVersion="0x00020000" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+  <!--谷歌商店应用内购买结算需要的权限-->
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR" />
+<!--AppsFlyer-->
+  <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
+</manifest>

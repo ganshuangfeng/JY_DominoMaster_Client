@@ -1,0 +1,90 @@
+
+wushi.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong1
+  rotate: true
+  xy: 410, 10
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+denglong2
+  rotate: false
+  xy: 940, 74
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 81
+  size: 173, 467
+  orig: 173, 467
+  offset: 0, 0
+  index: -1
+gu
+  rotate: false
+  xy: 1042, 91
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 471, 43
+  size: 238, 211
+  orig: 238, 211
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 2, 2
+  size: 203, 77
+  orig: 203, 77
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: false
+  xy: 207, 4
+  size: 201, 75
+  orig: 201, 75
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 711, 55
+  size: 227, 199
+  orig: 227, 199
+  offset: 0, 0
+  index: -1
+zhou1
+  rotate: false
+  xy: 940, 156
+  size: 179, 33
+  orig: 179, 33
+  offset: 0, 0
+  index: -1
+zhou2
+  rotate: false
+  xy: 940, 156
+  size: 179, 33
+  orig: 179, 33
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1151, 220
+  size: 166, 34
+  orig: 166, 34
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 940, 191
+  size: 209, 63
+  orig: 209, 63
+  offset: 0, 0
+  index: -1

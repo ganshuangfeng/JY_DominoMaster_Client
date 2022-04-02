@@ -1,0 +1,55 @@
+
+renwu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刘海
+  rotate: false
+  xy: 535, 367
+  size: 220, 164
+  orig: 220, 164
+  offset: 0, 0
+  index: -1
+发丝1
+  rotate: false
+  xy: 1223, 706
+  size: 430, 315
+  orig: 430, 315
+  offset: 0, 0
+  index: -1
+发丝2
+  rotate: false
+  xy: 1655, 867
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+头发
+  rotate: false
+  xy: 2, 96
+  size: 531, 435
+  orig: 531, 435
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 1223, 540
+  size: 128, 164
+  orig: 128, 164
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 533
+  size: 488, 1219
+  orig: 488, 1219
+  offset: 0, 0
+  index: -1
+闭眼
+  rotate: false
+  xy: 2, 2
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1

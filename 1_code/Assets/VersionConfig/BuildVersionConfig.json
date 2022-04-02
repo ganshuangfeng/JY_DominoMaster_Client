@@ -1,0 +1,180 @@
+{
+  "svr_list": [
+    "http://jydown.jyhd919.cn/jydown/Version2020/Update/V5/Domino/",
+    "http://cdnjydown.jyhd919.cn/jydown/Version2020/Update/V5/Domino/"
+  ],
+  "svr_data": [
+    "http://cdnjydown.jyhd919.cn/jydown/Version2020/Update/V5/Domino/",
+    "http://jydown.jyhd919.cn/jydown/Version2020/Update/V5/Domino/"
+  ],
+  "svr_game": [
+    "152.32.155.202:5001"
+  ],
+  "Version": "3.1.2",
+  "options": [
+    {
+      "rootDir": "CommonPrefab",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": []
+    },
+    {
+      "rootDir": "game_Hall",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_DominoJL",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_DominoJLHall",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_Ludo",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_LudoHall",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_QiuQiuHall",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_QiuQiu",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_Slots",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+        "normal_slots_common"
+      ]
+    },
+    {
+      "rootDir": "game_MiniGame",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_Eliminate",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_xxl_common"
+      ]
+    },
+    {
+      "rootDir": "game_EliminateBS",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_xxl_common"
+      ]
+    },
+    {
+      "rootDir": "game_EliminateCJ",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_xxl_common"
+      ]
+    },
+    {
+      "rootDir": "game_EliminateCS",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_xxl_common"
+      ]
+    },
+    {
+      "rootDir": "game_EliminateFX",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_xxl_common"
+      ]
+    },
+    {
+      "rootDir": "game_EliminateSG",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_xxl_common"
+      ]
+    },
+    {
+      "rootDir": "game_EliminateSH",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_xxl_common"
+      ]
+    },
+    {
+      "rootDir": "game_EliminateXY",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_xxl_common"
+      ]
+    },
+    {
+      "rootDir": "game_LZHD",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_SlotsLion",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+        "normal_slots_common"
+      ]
+    },
+    {
+      "rootDir": "game_SSS",
+      "useBasicVersion": false,
+      "isExtract": false,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_SlotsHall",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    }
+    
+  ]
+}

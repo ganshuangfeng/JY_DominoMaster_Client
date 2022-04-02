@@ -1,0 +1,48 @@
+
+xiyourk.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa
+  rotate: false
+  xy: 423, 49
+  size: 126, 65
+  orig: 126, 65
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 268, 69
+  size: 153, 45
+  orig: 153, 45
+  offset: 0, 0
+  index: -1
+pifneg
+  rotate: false
+  xy: 118, 49
+  size: 148, 65
+  orig: 148, 65
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 665, 24
+  size: 107, 90
+  orig: 107, 90
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 114, 112
+  orig: 114, 112
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 551, 14
+  size: 100, 112
+  orig: 100, 112
+  offset: 0, 0
+  index: -1

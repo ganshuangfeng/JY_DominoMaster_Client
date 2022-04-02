@@ -1,0 +1,20 @@
+
+sztzy.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xs_icon_6
+  rotate: false
+  xy: 2, 36
+  size: 162, 150
+  orig: 162, 150
+  offset: 0, 0
+  index: -1
+yp
+  rotate: false
+  xy: 2, 2
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1

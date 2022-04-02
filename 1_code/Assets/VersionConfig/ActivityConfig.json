@@ -1,0 +1,156 @@
+{
+  "activities": [
+    {
+      "name": "Activity/sys_setting",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_broadcas",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_email",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_shop",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_roleinfo",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_rules",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_level",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_interactive",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_qd",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_xrqtl",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_vip",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_bag",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_accumulate_win",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_login_display",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_sclb",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_roulette",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_czlb",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_domino_task",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_fllb",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_youke_bind",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_dh",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_unlimited_gift",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_google_review",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_banner",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_act_base",
+      "enable": true
+    },
+    {
+      "name": "Activity/sys_act_base_style/sys_act_base_normal_001",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_gift_exchange",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_level_reward",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_yk",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_fb_guide",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_suggested_ollection",
+      "enable": true
+    },
+    {
+      "name": "Activity/xxlsg_mrrw",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_yjfl",
+      "enable": true
+    },
+    {
+      "name": "Activity/guide",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_yxfl",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_yjcj",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_yjphb",
+      "enable": true
+    },
+    {
+      "name": "Activity/act_jbzs",
+      "enable": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+
+shuihu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd_shxxl_02
+  rotate: false
+  xy: 2, 2
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+gd_shxxl_04
+  rotate: false
+  xy: 363, 187
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+gd_shxxl_05
+  rotate: false
+  xy: 202, 121
+  size: 159, 125
+  orig: 159, 125
+  offset: 0, 0
+  index: -1
+gd_shxxl_06
+  rotate: false
+  xy: 85, 28
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+图层 0
+  rotate: false
+  xy: 2, 88
+  size: 198, 158
+  orig: 198, 158
+  offset: 0, 0
+  index: -1

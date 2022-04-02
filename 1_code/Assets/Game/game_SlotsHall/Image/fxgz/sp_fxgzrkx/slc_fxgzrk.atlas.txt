@@ -1,0 +1,97 @@
+
+slc_fxgzrk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi
+  rotate: false
+  xy: 374, 291
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 424, 299
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+jinbi4
+  rotate: false
+  xy: 111, 11
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+jinbi5
+  rotate: false
+  xy: 480, 268
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+jinbi6
+  rotate: false
+  xy: 480, 303
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+jinbi7
+  rotate: false
+  xy: 111, 34
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+jinibi3
+  rotate: false
+  xy: 228, 113
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+jubaopen
+  rotate: false
+  xy: 2, 79
+  size: 224, 169
+  orig: 224, 169
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 306, 339
+  size: 173, 164
+  orig: 173, 164
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 2, 2
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 250
+  size: 302, 253
+  orig: 302, 253
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 228, 158
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 306, 282
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1

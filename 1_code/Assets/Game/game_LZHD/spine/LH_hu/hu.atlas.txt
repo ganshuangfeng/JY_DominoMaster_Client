@@ -1,0 +1,20 @@
+
+hu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 831, 450
+  orig: 831, 450
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 835, 104
+  size: 519, 348
+  orig: 519, 348
+  offset: 0, 0
+  index: -1

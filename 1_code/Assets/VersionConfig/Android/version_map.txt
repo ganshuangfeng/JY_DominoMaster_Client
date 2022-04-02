@@ -1,0 +1,212 @@
+{
+    "ident": "",
+    "last_version": "1.1.20",
+    "config_version": "",
+    "config_md5": "",
+    "website": "",
+    "svr_list": [
+        "http://oss.domino00.com/jydown/Version2020/Update/V5/Domino4/",
+        "http://oss.domino00.com/jydown/Version2020/Update/V5/Domino4/"
+    ],
+    "svr_data": [
+        "http://oss.domino00.com/jydown/Version2020/Update/V5/Domino4/",
+        "http://oss.domino00.com/jydown/Version2020/Update/V5/Domino4/"
+    ],
+    "svr_game": [
+        "jygate.jyhd919.cn:5101"
+    ],
+    "restart": false,
+    "check_md5": true,
+    "update_tiny": false,
+    "server_status": "",
+    "download_timeout": 30,
+    "history": [],
+    "games": [
+        {
+            "Name": "CommonPrefab",
+            "Size": 5167047
+        },
+        {
+            "Name": "game_Hall",
+            "Size": 1664295
+        },
+        {
+            "Name": "game_DominoJL",
+            "Size": 1915205
+        },
+        {
+            "Name": "game_DominoJLHall",
+            "Size": 779412
+        },
+        {
+            "Name": "game_Ludo",
+            "Size": 3646135
+        },
+        {
+            "Name": "game_LudoHall",
+            "Size": 20504
+        }
+    ],
+    "md5s": [
+        {
+            "Name": "udf.txt",
+            "MD5": "dfb92107d84146c85a0ccd5aed912804",
+            "Size": 582
+        },
+        {
+            "Name": "activity/udf.txt",
+            "MD5": "6772472b9d3052c45c0951423118bb91",
+            "Size": 138
+        },
+        {
+            "Name": "channel/udf.txt",
+            "MD5": "2d0be69910fba1737e1d4268199753a0",
+            "Size": 137
+        },
+        {
+            "Name": "common/udf.txt",
+            "MD5": "c960738a8c0265e278bf2ffb42f960c1",
+            "Size": 92
+        },
+        {
+            "Name": "commonprefab/udf.txt",
+            "MD5": "002790679b6682d29234eecf2bacca13",
+            "Size": 142
+        },
+        {
+            "Name": "framework/udf.txt",
+            "MD5": "d6c65e0fa9bd89ea8b304464ed2f27c1",
+            "Size": 95
+        },
+        {
+            "Name": "game_dominojl/udf.txt",
+            "MD5": "d469e33e068563b55a3e54f7aad77efb",
+            "Size": 143
+        },
+        {
+            "Name": "game_dominojlhall/udf.txt",
+            "MD5": "919455ecc1df0b88d833d0a71e621672",
+            "Size": 147
+        },
+        {
+            "Name": "game_hall/udf.txt",
+            "MD5": "8dda9ba59c48784548115bc6937c06ab",
+            "Size": 139
+        },
+        {
+            "Name": "game_loding/udf.txt",
+            "MD5": "5763757a9013a3a5266ed2b10725a432",
+            "Size": 141
+        },
+        {
+            "Name": "game_login/udf.txt",
+            "MD5": "e1d9e1d405e5cbc0a5db2a4089a869a0",
+            "Size": 140
+        },
+        {
+            "Name": "game_ludo/udf.txt",
+            "MD5": "df98d0864c46ec610e3bca827446307f",
+            "Size": 139
+        },
+        {
+            "Name": "game_ludohall/udf.txt",
+            "MD5": "2ff5c0c778d56fdfc7b520415bd4b173",
+            "Size": 143
+        },
+        {
+            "Name": "game_qiuqiu/udf.txt",
+            "MD5": "eb606182a50f9cd7dfbeb7c8765165bc",
+            "Size": 141
+        },
+        {
+            "Name": "loadingpanel/udf.txt",
+            "MD5": "255808c2add8813b1892f7732a2a82fb",
+            "Size": 98
+        },
+        {
+            "Name": "sproto/udf.txt",
+            "MD5": "92dbe43da939d08b4ab8d537f45bd7f2",
+            "Size": 92
+        },
+        {
+            "Name": "file_list.txt",
+            "MD5": "68844d8cb4784aaf68b24c7d49a872b5",
+            "Size": 308
+        },
+        {
+            "Name": "activity/file_list.txt",
+            "MD5": "7aa46fbf5c23604e1959ea55da535de4",
+            "Size": 2949
+        },
+        {
+            "Name": "channel/file_list.txt",
+            "MD5": "dc92033752de0b78229bc5dd9b534ad4",
+            "Size": 100
+        },
+        {
+            "Name": "common/file_list.txt",
+            "MD5": "ee92d6bb20d433cf250963a63eed905d",
+            "Size": 95
+        },
+        {
+            "Name": "commonprefab/file_list.txt",
+            "MD5": "7f094c91f260dafa2d5745422fd94a3f",
+            "Size": 2631
+        },
+        {
+            "Name": "framework/file_list.txt",
+            "MD5": "d8c38010d638e436ad3a72dfed86c67a",
+            "Size": 101
+        },
+        {
+            "Name": "game_dominojl/file_list.txt",
+            "MD5": "e4f7f8e9e4255616809db2f5a5d30d6e",
+            "Size": 1660
+        },
+        {
+            "Name": "game_dominojlhall/file_list.txt",
+            "MD5": "703d0349b10afbc9d8c903ea38cda8ba",
+            "Size": 982
+        },
+        {
+            "Name": "game_hall/file_list.txt",
+            "MD5": "b3c0ffb7d1b9efd402b28b037513bff9",
+            "Size": 535
+        },
+        {
+            "Name": "game_loding/file_list.txt",
+            "MD5": "07214d0347bd62e4b7f12f527a7e5a0d",
+            "Size": 329
+        },
+        {
+            "Name": "game_login/file_list.txt",
+            "MD5": "2ee1eca9b7599f5f73c0e2774c65d480",
+            "Size": 439
+        },
+        {
+            "Name": "game_ludo/file_list.txt",
+            "MD5": "b6a886bc99b44d88e0a2dd53b032870f",
+            "Size": 1442
+        },
+        {
+            "Name": "game_ludohall/file_list.txt",
+            "MD5": "b2035f9446c46af0ac6c063bc4a83aa2",
+            "Size": 912
+        },
+        {
+            "Name": "game_qiuqiu/file_list.txt",
+            "MD5": "9b7ebe29127c80c54b7c7d6659efebae",
+            "Size": 331
+        },
+        {
+            "Name": "loadingpanel/file_list.txt",
+            "MD5": "fe109d0ef174b1639d23ab1bf9cc14f3",
+            "Size": 232
+        },
+        {
+            "Name": "sproto/file_list.txt",
+            "MD5": "9d9a1faf8d8f5f73336cc8edbca8d323",
+            "Size": 95
+        }
+    ]
+}
